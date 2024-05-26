@@ -166,14 +166,6 @@ export default {
                   link: "/Document/前端面试相关/【前端面试题】/JavaScript面试题/JavaScript面试题",
                 },
                 {
-                  text: "JavaScript基础面试题",
-                  link: "/Document/前端面试相关/【前端面试题】/JavaScript面试题/JavaScript基础面试题",
-                },
-                {
-                  text: "JavaScript高级面试题",
-                  link: "/Document/前端面试相关/【前端面试题】/JavaScript面试题/JavaScript高级面试题",
-                },
-                {
                   text: "JavaScript手写题",
                   collapsible: true,
                   collapsed: true,
